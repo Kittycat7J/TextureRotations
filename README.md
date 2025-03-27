@@ -14,6 +14,7 @@ make a copy if you want to test coords because otherwise the zip will be too lar
 - make a /fill to replicate room size\(maybe a datapack\)
 - ~~find where the output coordinates are~~
   - at inputted origin
+- calculate skizz's distance and fly direction based on the timer, help eliminate some space
 <details>
 <summary>room size and offset from origin</summary><br/>
   
