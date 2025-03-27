@@ -9,8 +9,10 @@ make a copy if you want to test coords because otherwise the zip will be too lar
 - analize concrete powder 2nd layer
 - double check for floor mistakes
 - ~~change program to output /tp commands instead~~
+ - /tp @p x y z
 - make a /fill to replicate room size\(maybe a datapack\)
-- find wh
+- ~~find where the output coordinates are~~
+ - at inputted origin 
 
 
 
