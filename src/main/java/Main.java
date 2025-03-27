@@ -7,10 +7,10 @@ import texture.Vanilla21_1Textures;
 
 public class Main {
 
-    public static final int xMin = -10000, xMax = 10000;
-    public static final int zMin = -10000, zMax = 10000;
+    public static final int xMin = -8000, xMax = 8000;
+    public static final int zMin = -8000, zMax = 8000;
     public static final int yMin = 10    , yMax = 60;
-    public static final int threads = 10;
+    public static final int threads = 12;
     public static final TextureProvider mode = new Vanilla21_1Textures();
     //                                         new SodiumTextures();
     //                                         new Sodium19Textures();
