@@ -1,6 +1,6 @@
 # main clip  and video
-https://youtube.com/clip/UgkxZBKKwmdraQX8FiAwj6RhYpfO_Cgn9OfK?si=gEu-Iga-LgPauVXv
-https://youtu.be/pLrG1cZURTo?si=PNe_grB4cjvn-XwR&t=1504
+- https://youtube.com/clip/UgkxZBKKwmdraQX8FiAwj6RhYpfO_Cgn9OfK?si=gEu-Iga-LgPauVXv
+- https://youtu.be/pLrG1cZURTo?si=PNe_grB4cjvn-XwR&t=1504
 
 
 # Texture Rotation Reverser Java
