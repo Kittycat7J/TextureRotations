@@ -3,7 +3,7 @@
 - https://youtu.be/pLrG1cZURTo?si=PNe_grB4cjvn-XwR&t=1504
 
 # added world download with the seed 
-make a copy if you want to test coords because otherwise the zip will be too large to upload
+make a copy if you want to test coords because otherwise the zip will be too large to upload v1.20.1
 
 # todo
 - analize concrete powder 2nd layer
