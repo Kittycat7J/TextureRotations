@@ -19,32 +19,33 @@ make a copy if you want to test coords because otherwise the zip will be too lar
   <details>
   <summary>volume main</summary>
     
-  - 24-22x wide
-  - y
-  - z
+  - x: 24-22
+  - y: 6
+  - z: 19?
   </details><br/>
   <details>
   <summary>offset main</summary>
       
-  - x
-  - y
-  - z
+  - x:
+  - y: 1
+  - z:
   </details><br/>
   <details>
   <summary>volume meeting</summary>
     
-  - x
-  - y
-  - z
+  - x: 9
+  - y: 5
+  - z: 11
   </details><br/>
   <details>
   <summary>offset meeting</summary>
     
-  - x
-  - y
-  - z
+  - x: 
+  - y: 1
+  - z: main+2
   </details>
 </details>
+
 # Texture Rotation Reverser Java
 - for vanilla and sodium texture rotations.
 - multithreaded
