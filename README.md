@@ -11,6 +11,8 @@ make a copy if you want to test coords because otherwise the zip will be too lar
 - ~~change program to output /tp commands instead~~
   - /tp @p x y z
 - make a /fill to replicate room size\(maybe a datapack\)
+  - 24-22x wide
+  - z
 - ~~find where the output coordinates are~~
   - at inputted origin 
 
