@@ -85,7 +85,7 @@ public class TextureFinder extends Thread {
                         }
                     }
 
-                    System.out.println("/tp @p" + x + y + z);
+                    System.out.println("/tp @p " + x + " " + y + " " + z);
                 }
             }
         }
