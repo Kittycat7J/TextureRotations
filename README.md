@@ -1,6 +1,7 @@
-# main clip  and video
+# clips  and videos
 - https://youtube.com/clip/UgkxZBKKwmdraQX8FiAwj6RhYpfO_Cgn9OfK?si=gEu-Iga-LgPauVXv
 - https://youtu.be/pLrG1cZURTo?si=PNe_grB4cjvn-XwR&t=1504
+- https://youtu.be/R-W0VzC4Em4?si=jCF8SyRyxCcG13k5
 
 # added world download with the seed 
 make a copy if you want to test coords because otherwise the zip will be too large to upload v1.20.1
