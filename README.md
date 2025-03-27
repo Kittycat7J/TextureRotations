@@ -2,6 +2,17 @@
 - https://youtube.com/clip/UgkxZBKKwmdraQX8FiAwj6RhYpfO_Cgn9OfK?si=gEu-Iga-LgPauVXv
 - https://youtu.be/pLrG1cZURTo?si=PNe_grB4cjvn-XwR&t=1504
 
+# added world download with the seed 
+make a copy if you want to test coords because otherwise the zip will be too large to upload
+
+# todo
+- analize concrete powder 2nd layer
+- double check for floor mistakes
+- ~~change program to output /tp commands instead~~
+- make a /fill to replicate room size\(maybe a datapack\)
+- find wh
+
+
 
 # Texture Rotation Reverser Java
 - for vanilla and sodium texture rotations.
