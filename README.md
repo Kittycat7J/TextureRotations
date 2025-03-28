@@ -7,14 +7,14 @@
 make a copy if you want to test coords because otherwise the zip will be too large to upload v1.20.1
 
 # todo
-- analize concrete powder 2nd layer
+- ~~analize concrete powder 2nd layer~~
 - double check for floor mistakes
 - ~~change program to output /tp commands instead~~
   - /tp @p x y z
 - make a /fill to replicate room size\(maybe a datapack\)
 - ~~find where the output coordinates are~~
   - at inputted origin
-- calculate skizz's distance and fly direction based on the timer, help eliminate some space
+- ~~calculate skizz's distance and fly direction based on the timer, help eliminate some space~~
 <details>
 <summary>room size and offset from origin</summary><br/>
   
