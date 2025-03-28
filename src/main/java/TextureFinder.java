@@ -13,15 +13,32 @@ public class TextureFinder extends Thread {
     //search parameters are in the Main class
 
     static {
+        //-1s
+//        formation.add(new RotationInfo(2, 0, -1, 2, true));
+//        formation.add(new RotationInfo(3, 0, -1, 0, true));
+//        formation.add(new RotationInfo(5, 0, -1, 3, true));
+
+        //0s
         formation.add(new RotationInfo(0, 0, 0, 1, true));
         formation.add(new RotationInfo(1, 0, 0, 3, true));
         formation.add(new RotationInfo(2, 0, 0, 3, true));
+//        formation.add(new RotationInfo(3, 0, 0, 2, true));
+//        formation.add(new RotationInfo(4, 0, 0, 3, true));
+//        formation.add(new RotationInfo(5, 0, 0, 1, true));
+//        formation.add(new RotationInfo(6, 0, 0, 2, true));
+//        formation.add(new RotationInfo(7, 0, 0, 0, true));
+//        formation.add(new RotationInfo(8, 0, 0, 1, true));
+
         //1s
         formation.add(new RotationInfo(0, 0, 1, 2, true));
         formation.add(new RotationInfo(1, 0, 1, 3, true));
         formation.add(new RotationInfo(2,0, 1, 3, true));
         formation.add(new RotationInfo(3, 0, 1, 3, true));
         formation.add(new RotationInfo(4, 0, 1, 0, true));
+//        formation.add(new RotationInfo(5, 0, 1, 0, true));
+//        formation.add(new RotationInfo(6, 0, 1, 1, true));
+//        formation.add(new RotationInfo(7, 0, 1, 2, true));
+//        formation.add(new RotationInfo(8, 0, 1, 0, true));
         //2s
         formation.add(new RotationInfo(0, 0, 2, 2, true));
         formation.add(new RotationInfo(1, 0, 2, 3, true));
@@ -30,6 +47,8 @@ public class TextureFinder extends Thread {
         formation.add(new RotationInfo(4, 0, 2, 3, true));
         formation.add(new RotationInfo(5, 0, 2, 0, true));
         formation.add(new RotationInfo(6, 0, 2, 1, true));
+//        formation.add(new RotationInfo(7, 0, 2, 0, true));
+//        formation.add(new RotationInfo(8, 0, 2, 2, true));
         //3s
         formation.add(new RotationInfo(0, 0, 3, 0, true));
         formation.add(new RotationInfo(1, 0, 3, 2, true));
@@ -44,9 +63,8 @@ public class TextureFinder extends Thread {
         formation.add(new RotationInfo(2, 0, 4, 3, true));
         formation.add(new RotationInfo(3, 0, 4, 2, true));
         formation.add(new RotationInfo(4, 0, 4, 0, true));
-        formation.add(new RotationInfo(5, 0, 4, 1, true));
-        formation.add(new RotationInfo(6, 0, 4, 2, true));
-//      formation.add(new RotationInfo(0, 0, 0, 0, true));
+        formation.add(new RotationInfo(5, 0, 4, 0, true));
+        formation.add(new RotationInfo(6, 0, 4, 0, true));
 
         for (RotationInfo info : formation) {
             if(info.isSide) {
